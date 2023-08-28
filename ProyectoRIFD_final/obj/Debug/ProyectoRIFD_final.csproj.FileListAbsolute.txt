@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\bin\Debug\ProyectoRIFD_final.exe.config
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\bin\Debug\ProyectoRIFD_final.exe
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\bin\Debug\ProyectoRIFD_final.pdb
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.Form1.resources
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.Properties.Resources.resources
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.exe
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.pdb
+C:\Users\andre\source\repos\ProyectoRIFD_final\ProyectoRIFD_final\obj\Debug\ProyectoRIFD_final.frm_usuario.resources
